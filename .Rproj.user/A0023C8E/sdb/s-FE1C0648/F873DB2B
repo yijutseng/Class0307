@@ -1,0 +1,18 @@
+{
+    "contents" : "1+1\n",
+    "created" : 1457268376671.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2067990389",
+    "id" : "F873DB2B",
+    "lastKnownWriteTime" : 1457268419,
+    "path" : "~/GitHub/Class0307/Code1.R",
+    "project_path" : "Code1.R",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "type" : "r_source"
+}
